@@ -1,17 +1,11 @@
 # cms-kit Wizard File-Editor
 
-Path: cms-kit/backend/wizards/fileedit
+Installation path: backend/wizards/fileedit
 
 ## Description
 
-This Wizard lets you edit (writable) Files located in your Project-Folder (exept of Files located in /objects/... for security-reasons).
-
-* *Input-Type:* String with Wizard (VARCHAR)
-* *Include-Code:* fileedit
-* *Input:* File-Path
-* *Return:* nothing (edit the File, defined in File-Path)
-* *Credits:* see markup-editor
-* *Depends on:* markup-editor
+This wizard lets you edit (writable) files located in your project-folder
+(exept of Files located in /objects/... for security-reasons).
 
 ## Installation
 
